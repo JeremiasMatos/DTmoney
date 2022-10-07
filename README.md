@@ -1,1 +1,18 @@
 # DTmoney
+APPLICATION OF FINANCIAL MANAGEMENT FOR PERSONAL USE,RECORDS THE DEPOSITED VALUE, THE SPENDING,DEBT AND VALUE REMAINING.
+
+### TECNOGY / SKILLS
+  - JAVASCRIPT
+  - TYPESCRIPT
+  - NODEJS 
+  - MIRAGEJS MOCK API
+  - Axios 
+  - REACTjs
+    - react-dom
+    - styled-components
+    - web-vitals
+  - CSS
+ 
+
+
+    
